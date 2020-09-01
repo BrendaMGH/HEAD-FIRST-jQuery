@@ -18,3 +18,14 @@ div{
 #main div{
 	height: 245px;
 }
+
+.my_hover{
+	border: solid #00f 3px;
+}
+
+.discount{
+	border: solid #0f0 3px;
+	}
+.no_discount{
+	border: solid #f00 3px;
+}
