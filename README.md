@@ -6,4 +6,6 @@ Use jQuery **selctors, methods and _$(this)_**, create Jump for Joy page. [See h
 ### Chapter 3 - JumpForJoy
 Use an external file for jQuery, use new methods -> _**addClass, removeClass, hover**_  and create **functions**. [See here](../../tree/a161365b0e28a41fdcdd72d280e7b3814c4f0894) 
 ### Chapter 4 - Eatery
-**Manipulate the DOM -> _remove detach before after_**, use methods to relate elements, filters and save HTML elements in arrays.
+**Manipulate the DOM -> _remove detach before after_**, use methods to relate elements, filters and save HTML elements in arrays. [See here](../../tree/e876a6da7593e2ee2af0ca5157a65b4ba72787a1)
+### Chapter 5 - MonsterMashup
+**Add animations _faidIn slide toogle_** and create custom animations -> **_animate_**. 
