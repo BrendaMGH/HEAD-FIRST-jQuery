@@ -12,4 +12,6 @@ Use an external file for jQuery, use new methods -> _**addClass, removeClass, ho
 ### Chapter 6 - BlackJack
 Use **Javascript** objects, arrays and loops, more jQuery methods. [See here](../../tree/edcf0999c86ea76afe209d49fdac3b88f5cd4e3a) 
 ### Chapter 7 - MonsterMashup
-Use Javascript _**window**_ object and its methods and restructure the code.  
+Use Javascript _**window**_ object and its methods -> _**onFocus, onBlur setInterval**_, restructure the code. [See here](../../tree/52adca3902d493bc8732bd21653b91172aaea118)  
+### Chapter 8 - Race
+Use **AJAX** to get content from a server and update it in the page without refreshing, use **XML** to  store and describe the structred of data, use **PHP** to manipulate the content of the page on the server. 
