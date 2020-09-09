@@ -1,0 +1,95 @@
+body {
+  background: #000000 top left;
+  color: #ffffff;
+  margin: 20px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica,
+    sans-serif;
+  font-size: 12px;
+}
+
+.form_pad {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.just_display {
+  border: 0px;
+  background: transparent;
+  padding-bottom: 15px;
+}
+
+#type_select label {
+  background-color: #ffb73d;
+  font-weight: bold;
+  color: #000000;
+}
+
+#type_select label:hover {
+  background-color: white;
+  font-weight: bold;
+  color: mediumblue;
+}
+
+.ui-widget-header {
+  background-color: #817865 !important;
+  border: 1px solid #494437 !important;
+  border-radius: 8px !important;
+  color: white !important;
+}
+
+.ui-widget-content {
+  background: #feeebd !important;
+  border: 1px solid #8e846b !important;
+}
+
+div .ui-slider {
+  border-radius: 8px;
+}
+
+.ui-slider-handle {
+  background: #fece2f !important;
+  border-radius: 100% !important;
+}
+
+/* color slider styles */
+#slide_dist,
+#slide_weight,
+#slide_height {
+  margin-bottom: 14px;
+}
+div div#swatch {
+  width: 75px;
+  height: 75px;
+  background-image: none;
+  border: #8e846b solid 1px;
+  border-radius: 8px;
+}
+#red .ui-slider-range {
+  background: #ef2929 !important;
+}
+#red .ui-slider-handle {
+  border-color: #ef2929;
+}
+#green .ui-slider-range {
+  background: #8ae234 !important;
+}
+#green .ui-slider-handle {
+  border-color: #8ae234;
+}
+#blue .ui-slider-range {
+  background: #729fcf !important;
+}
+#blue .ui-slider-handle {
+  border-color: #729fcf;
+}
+
+div#div_swatch{
+  border: none !important;
+}
+
+button{
+  background-color: #ffb73d !important;  
+  font-weight: bold !important;
+}
+
+

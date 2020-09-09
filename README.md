@@ -16,4 +16,6 @@ Use Javascript _**window**_ object and its methods -> _**onFocus, onBlur setInte
 ### Chapter 8 - Race
 Use **AJAX** to get content from a server and update it in the page without refreshing, use **XML** to  store and describe the structred of data, use **PHP** to manipulate the content of the page on the server. [See here](../../tree/a818d0d07085e9a2d26c0cd477789807c0898bae) 
 ### Chapter 9 - Race
-Getting to know **PHP** and **SQL database**, use POST and GET methods to interact with the server.  
+Getting to know **PHP** and **SQL database**, use POST and GET methods to interact with the server. [See here](../../tree/8a055d7fb3dda11a063fbe6e5c53e0aa36e7b657)
+### Chapter 10 - Cryptozoologists
+Use **jQuery UI** plug-ins, effects, interaction and widgets.    
