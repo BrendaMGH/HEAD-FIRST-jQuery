@@ -18,6 +18,7 @@ body {
   padding-bottom: 15px;
 }
 
+/* //////////////////////////////////// suny theme //////////////////////////////////// */
 #type_select label {
   background-color: #ffb73d;
   font-weight: bold;
@@ -83,13 +84,43 @@ div div#swatch {
   border-color: #729fcf;
 }
 
-div#div_swatch{
+div#div_swatch {
   border: none !important;
 }
 
-button{
-  background-color: #ffb73d !important;  
+button {
+  background-color: #ffb73d !important;
   font-weight: bold !important;
 }
 
+/* //////////////////////////////////// dispay_one //////////////////////////////////// */
+#map_canvas {
+  float: left;
+  height: 450px;
+  width: 450px;
+}
 
+#sight_nav {
+  float: left;
+}
+ul#sight_list {
+  width: 150px;
+  padding: 0px;
+  margin: 0px;
+}
+li.sightings {
+  padding: 4px;
+  background: #7b7382;
+  border: 1px #000 solid;
+  color: #fff;
+  list-style: none;
+}
+li.sightings:hover {
+  background: #eee;
+  color: #000;
+}
+
+/* //////////////////////////////////// dispay_type //////////////////////////////////// */
+.gm-style-iw-d div{
+  color: black;
+}

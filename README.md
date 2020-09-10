@@ -18,4 +18,6 @@ Use **AJAX** to get content from a server and update it in the page without refr
 ### Chapter 9 - Race
 Getting to know **PHP** and **SQL database**, use POST and GET methods to interact with the server. [See here](../../tree/8a055d7fb3dda11a063fbe6e5c53e0aa36e7b657)
 ### Chapter 10 - Cryptozoologists
-Use **jQuery UI** plug-ins, effects, interaction and widgets.    
+Use **jQuery UI** plug-ins, effects, interaction and widgets. [See here](../../tree/73e77d18b19b3f1ea96ef5554c83fe1f28137444)    
+### Chapter 11 - Cryptozoologists
+Getting to know **APIs** and use Google Maps API.

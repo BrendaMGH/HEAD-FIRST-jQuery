@@ -88,7 +88,11 @@ $(document).ready(function () {
 			}
 		}, "json");
 
-	});
+  });
+  
+  $("button:submit").submit(function () {
+    return false;
+  });
 
   //Clear forms inputs
   function clearInputs() {
@@ -96,5 +100,4 @@ $(document).ready(function () {
       $(this).val("");
     });
   }
-
 });

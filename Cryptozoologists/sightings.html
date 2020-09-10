@@ -11,7 +11,7 @@
       <h3>Fill out the form below and click "Enter" to Submit</h3>
     </div>
 
-    <form id="form" name="form" method="post" action="service.php">
+    <form id="form" name="form" method="POST" action="service.php">
       <div class="ui-widget-content">
         <h3>CRYPTID SIGHTING DATA</h3>
       </div>
@@ -21,17 +21,17 @@
 
         <h3>Creature Type:</h3>
         <div id="type_select">
-          <input type="radio" id="radio1" name="creature_type" />
+          <input type="radio" id="radio1" name="creature_type" value="Chupacabras"/>
             <label for="radio1">Chupacabras</label>
-          <input type="radio" id="radio2" name="creature_type" />
+          <input type="radio" id="radio2" name="creature_type" value="Jersey Devil"/>
             <label for="radio2">Jersey Devil</label>
-          <input type="radio" id="radio3" name="creature_type" />
+          <input type="radio" id="radio3" name="creature_type" value="Loch Ness Monster"/>
             <label for="radio3">Loch Ness Monster</label>
-          <input type="radio" id="radio4" name="creature_type" />
+          <input type="radio" id="radio4" name="creature_type" value="Sasquatch"/>
             <label for="radio4">Sasquatch</label>
-          <input type="radio" id="radio5" name="creature_type" />
+          <input type="radio" id="radio5" name="creature_type" value="Yeti"/>
             <label for="radio5">Yeti</label>
-          <input type="radio" id="radio6" name="creature_type" />
+          <input type="radio" id="radio6" name="creature_type" value="Other"/>
             <label for="radio6">Oter</label>  
         </div>
 
@@ -83,7 +83,7 @@
       </div>
     </form>
 	<script src="scripts/jquery-3.5.1.js"></script>
-	<script src="scripts/my_scriptS.js"></script>
+	<script src="scripts/my_scripts.js"></script>
 	<script src="jquery-ui-1.12.1/jquery-ui.min.js"></script>
   </body>
 </html>
